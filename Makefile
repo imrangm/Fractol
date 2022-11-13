@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: imran <imran@student.42.fr>                +#+  +:+       +#+         #
+#    By: imustafa <imustafa@student.42abudhabi.ae>  +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/03/19 20:02:09 by imran             #+#    #+#              #
-#    Updated: 2022/03/19 20:03:16 by imran            ###   ########.fr        #
+#    Updated: 2022/11/13 10:34:14 by imustafa         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,7 +16,7 @@ NAME = fractol
 
 CC = gcc
 
-SRC = main.c fract.c fns.c cntl.c
+SRC = srcs/main.c srcs/fract.c srcs/fns.c srcs/cntl.c
 
 OBJS = $(SRC:.c=.o)
 
