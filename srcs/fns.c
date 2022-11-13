@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   fns.c                                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: imran <imran@student.42.fr>                +#+  +:+       +#+        */
+/*   By: imustafa <imustafa@student.42abudhabi.ae>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/10 19:15:24 by imran             #+#    #+#             */
-/*   Updated: 2022/03/19 18:04:48 by imran            ###   ########.fr       */
+/*   Updated: 2022/11/13 10:31:42 by imustafa         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fractol.h"
+#include "../include/fractol.h"
 
 int	ft_strncmp(const char *s1, const char *s2, size_t n)
 {

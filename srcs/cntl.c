@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   cntl.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: imran <imran@student.42.fr>                +#+  +:+       +#+        */
+/*   By: imustafa <imustafa@student.42abudhabi.ae>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/02 14:20:52 by imran             #+#    #+#             */
-/*   Updated: 2022/03/19 18:03:04 by imran            ###   ########.fr       */
+/*   Updated: 2022/11/13 10:31:35 by imustafa         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fractol.h"
+#include "../include/fractol.h"
 
 void set_color(int keycode, t_fract *fract)
 {

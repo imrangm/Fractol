@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: imran <imran@student.42.fr>                +#+  +:+       +#+        */
+/*   By: imustafa <imustafa@student.42abudhabi.ae>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/02 08:53:52 by imran             #+#    #+#             */
-/*   Updated: 2022/03/20 20:35:44 by imran            ###   ########.fr       */
+/*   Updated: 2022/11/13 10:31:49 by imustafa         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fractol.h"
+#include "../include/fractol.h"
 
 void set_type(int ac, char **av, t_fract *fract)
 {

@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   fract.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: imran <imran@student.42.fr>                +#+  +:+       +#+        */
+/*   By: imustafa <imustafa@student.42abudhabi.ae>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/14 19:33:25 by imustafa          #+#    #+#             */
-/*   Updated: 2022/03/19 19:38:33 by imran            ###   ########.fr       */
+/*   Updated: 2022/11/13 10:31:46 by imustafa         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fractol.h"
+#include "../include/fractol.h"
 
 int	bship(double c1, double c2, t_fract *fract)
 {
